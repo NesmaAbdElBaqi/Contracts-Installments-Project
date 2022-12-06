@@ -14,4 +14,3 @@ note : each table has a seq/trigger pair for the id column.
 
 this code also handels the case when the client want to change the contract type or the contract duration. it calcultes the paid amounts to be considered in case of changing either the contract type or the duration.
 
-video illusrationg and testing the code : and testing the code:
